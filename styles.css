@@ -83,6 +83,7 @@ li {
     font-family: Roboto, sans-serif;
     border: none;
     border-radius: 8px;
+    color: #F9FAF8;
     background: #3882F6;
     cursor: pointer;
   }
@@ -169,6 +170,7 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    align-items: flex-end;
   }
 
   .calltoaction {
