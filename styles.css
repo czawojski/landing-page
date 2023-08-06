@@ -22,12 +22,15 @@ body {
   }
 
 .headerlinks {
-    font-size: 18px;
-    color: #E5E7EB;
     display: flex;
     justify-content: flex-end;
-    text-decoration: none;
     padding: 16px;
+  }
+
+  a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
   }
 
   li {
