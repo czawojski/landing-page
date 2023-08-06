@@ -24,6 +24,7 @@ body {
 
 .headerlinks {
     display: flex;
+    flex-direction: row;
     justify-content: flex-end;
     padding: 16px;
   }
@@ -86,6 +87,9 @@ li {
     color: #F9FAF8;
     background: #3882F6;
     cursor: pointer;
+    padding: 12px;
+    min-height: 30px; 
+    min-width: 120px;
   }
 
   .heroright {
