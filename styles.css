@@ -26,7 +26,12 @@ body {
     color: #E5E7EB;
     display: flex;
     justify-content: flex-end;
+    text-decoration: none;
     padding: 16px;
+  }
+
+  li {
+    list-style-type: none;
   }
 
 .footer {
