@@ -81,6 +81,8 @@ body {
     height: 300px;
     background: white;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
   .infotext {
@@ -93,8 +95,28 @@ body {
     padding: 16px;
   }
 
+  .infoimgcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px;
+  }
+
   .infoimg {
-    /* not sure if using images or cards here */
+    height: 75px;
+    width: 75px;
+    font-family: Roboto, sans-serif;
+    border: 2px #3882F6;
+    border-radius: 8px;
+  }
+
+  .infoimgtext {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
   }
 
   .quote {
