@@ -166,6 +166,7 @@ li {
   }
 
   .quoteattribution {
+    width: 700px;
     font-size: 24px;
     font-style: bold;
     color: black;
