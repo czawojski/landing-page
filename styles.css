@@ -168,11 +168,14 @@ li {
   }
 
   .quoteattribution {
+    width: 700px;
     font-size: 24px;
     font-style: bold;
     color: black;
     display: flex;
-    align-items: flex-end;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
   }
 
   .calltoaction {
