@@ -152,8 +152,6 @@ li {
     background: #E5E7EB;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
   }
 
   .quotetext {
@@ -172,7 +170,7 @@ li {
     font-style: bold;
     color: black;
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
   }
 
   .calltoaction {
