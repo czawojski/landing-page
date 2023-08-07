@@ -152,6 +152,8 @@ li {
     background: #E5E7EB;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .quotetext {
@@ -166,12 +168,11 @@ li {
   }
 
   .quoteattribution {
-    width: 700px;
     font-size: 24px;
     font-style: bold;
     color: black;
     display: flex;
-    align-items: flex-start;
+    align-items: flex-end;
   }
 
   .calltoaction {
