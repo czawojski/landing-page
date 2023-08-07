@@ -170,7 +170,7 @@ li {
     font-style: bold;
     color: black;
     display: flex;
-    justify-content: flex-end;
+    align-items: flex-start;
   }
 
   .calltoaction {
