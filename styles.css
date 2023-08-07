@@ -148,7 +148,7 @@ li {
   }
 
   .quote {
-    height: 500px;
+    height: 400px;
     background: #E5E7EB;
     display: flex;
     flex-direction: column;
@@ -172,8 +172,6 @@ li {
     font-style: bold;
     color: black;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
     align-items: flex-end;
   }
 
