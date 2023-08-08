@@ -232,4 +232,5 @@ li {
     min-width: 120px;
     display: flex;
     align-self: flex-end;
+    margin-top: 120px;
   }
