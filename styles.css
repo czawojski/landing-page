@@ -196,8 +196,9 @@ li {
     background: #3882F6;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: flex-start;
+    gap: 16px;
   }
 
   .calltext {
@@ -214,8 +215,6 @@ li {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
-    gap: 16px;
   }
 
   .button2 {
