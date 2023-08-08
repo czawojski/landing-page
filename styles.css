@@ -198,6 +198,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    flex-wrap: wrap;
   }
 
   .calltext {
@@ -206,7 +207,7 @@ li {
     font-weight: 900;
     color: #F9FAF8;
     display: flex;
-    /* margin: 10px 50px 20px 0; */
+    margin-left: 120px;
   }
 
   .calltext2 {
@@ -214,6 +215,7 @@ li {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
+    margin-left: 120px;
   }
 
   .button2 {
