@@ -88,7 +88,7 @@ li {
     color: #F9FAF8;
     background: #3882F6;
     cursor: pointer;
-    padding: 12px;
+    padding: 6px 12px;
     min-height: 30px; 
     min-width: 120px;
   }
@@ -229,7 +229,7 @@ li {
     color: #F9FAF8;
     background-color: #3882F6;
     cursor: pointer;
-    padding: 12px;
+    padding: 6px 12px;
     min-height: 30px; 
     min-width: 120px;
   }
