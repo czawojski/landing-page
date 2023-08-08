@@ -198,7 +198,6 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding: 0 30px 60px 0;
   }
 
   .calltext {
@@ -207,7 +206,7 @@ li {
     font-weight: 900;
     color: #F9FAF8;
     display: flex;
-    /* margin: 10px 50px 20px 0; */
+    margin: 0 50px 0 30px;
   }
 
   .calltext2 {
