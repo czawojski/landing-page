@@ -170,7 +170,7 @@ li {
   .quoteattribution {
     width: 700px;
     font-size: 24px;
-    font-style: bold;
+    font-weight: bold;
     color: black;
     display: flex;
     flex-direction: row;
@@ -188,13 +188,15 @@ li {
 
   .callbox {
     height: 150px;
-    width: 800px;
+    width: 900px;
     font-family: Roboto, sans-serif;
     border: none;
     border-radius: 25% 10%;
     background: #3882F6;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .calltext {
@@ -202,23 +204,24 @@ li {
     font-weight: 900;
     color: #F9FAF8;
     display: flex;
-    justify-content: flex-start;
-    padding: 16px;
+    /* justify-content: flex-start; */
+    /* margin: 10px 50px 20px 0; */
   }
 
   .calltext2 {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
-    justify-content: flex-start;
-    padding: 16px;
   }
 
   .button2 {
     font-family: Roboto, sans-serif;
-    border: 2px #F9FAF8;
+    border: 2px solid #F9FAF8;
     border-radius: 8px;
     color: #F9FAF8;
     background-color: #3882F6;
     cursor: pointer;
+    padding: 12px;
+    min-height: 30px; 
+    min-width: 120px;
   }
