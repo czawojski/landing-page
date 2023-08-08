@@ -196,9 +196,8 @@ li {
     background: #3882F6;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: flex-start;
-    gap: 16px;
   }
 
   .calltext {
