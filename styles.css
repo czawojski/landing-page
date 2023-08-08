@@ -227,5 +227,5 @@ li {
     padding: 6px 12px;
     min-height: 30px; 
     min-width: 120px;
-    float: right;
+    align-self: flex-end;
   }
