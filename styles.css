@@ -206,11 +206,11 @@ li {
     color: #F9FAF8;
     display: flex;
     margin-left: 120px;
-    margin-top: 50px;
+    margin-top: 30px;
   }
 
   .calltext2 {
-    width: 600px; /* new */
+    width: 600px;
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
