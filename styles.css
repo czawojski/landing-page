@@ -24,9 +24,8 @@ body {
 
 .headerlinks {
     display: flex;
-    flex-direction: row;
     margin-left: auto;
-    padding: 60px;
+    padding: 0 15px;
   }
 
 a {
