@@ -51,7 +51,7 @@ li {
   }
 
   .hero {
-    height: 600px;
+    height: 400px;
     background: #1F2937;
     display: flex;
   }
@@ -96,7 +96,7 @@ li {
 
   .heroright {
     height: 150px;
-    width: 500px;
+    width: 250px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -206,7 +206,7 @@ li {
     color: #F9FAF8;
     display: flex;
     margin-left: 120px;
-    margin-top: 30px;
+    margin-top: 40px;
   }
 
   .calltext2 {
