@@ -25,7 +25,7 @@ body {
 .headerlinks {
     display: flex;
     margin-left: auto;
-    justify-content: space-evenly; /**/
+    justify-content: space-evenly; 
     padding: 0 15px;
   }
 
@@ -35,8 +35,10 @@ a {
   text-decoration: none;
 }
 
-li {
+li { 
   list-style-type: none;
+  display: flex; /**/
+  justify-content: space-between;
 }
 
 .footer {
@@ -94,11 +96,11 @@ li {
     min-width: 120px;
   }
 
-  .heroright div { /**/
+  .heroright div {
     height: 150px;
     width: 250px;
     border: none;
-    color: #E5E7EB; /**/
+    color: #E5E7EB;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -232,5 +234,5 @@ li {
     min-height: 30px; 
     min-width: 120px;
     margin-left: auto;
-    margin-right: 60px; /**/
+    margin-right: 60px;
   }
