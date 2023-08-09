@@ -25,6 +25,7 @@ body {
 .headerlinks {
     display: flex;
     margin-left: auto;
+    flex-direction: column;
   }
 
 a {
