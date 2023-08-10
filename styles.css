@@ -23,8 +23,10 @@ body {
 .headerlinks {
     display: flex;
     margin-left: auto;
+    margin-right: 48px;
     justify-content: space-between;
-    padding: 16px;
+    flex-direction: column;
+    padding: 32px;
   }
 
 a {
