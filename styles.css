@@ -9,24 +9,13 @@ body {
     height: 72px;
     background: #1F2937;
     display: flex;
-    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
   }
 
-.headerlogo {
+.left-links, .right-links {
     font-size: 24px;
     color: #F9FAF8;
-    display: flex;
-    justify-content: flex-start;
-    padding: 48px;
-  }
-
-.headerlinks {
-    display: flex;
-    margin-left: auto;
-    margin-right: 48px;
-    justify-content: space-between;
-    flex-direction: row;
-    padding: 32px;
   }
 
 a {
@@ -35,8 +24,12 @@ a {
   text-decoration: none;
 }
 
-li { 
-  list-style-type: none;
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
 
 .footer {
