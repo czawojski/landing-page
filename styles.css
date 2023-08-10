@@ -9,6 +9,7 @@ body {
     height: 72px;
     background: #1F2937;
     display: flex;
+    align-items: center;
   }
 
 .headerlogo {
@@ -22,7 +23,7 @@ body {
 .headerlinks {
     display: flex;
     margin-left: auto;
-    justify-content: space-between;
+    justify-content: flex-end;
   }
 
 a {
