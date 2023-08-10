@@ -22,8 +22,8 @@ body {
 
 .headerlinks {
     display: flex;
-    margin-left: auto;
-    justify-content: flex-end;
+    /* margin-left: auto; */
+    justify-content: space-between;
   }
 
 a {
