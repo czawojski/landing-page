@@ -65,6 +65,7 @@ ul {
     font-weight: extra-bold;
     color: #F9FAF8;
     display: flex;
+    margin: 16px 0 0 0;
   }
 
   .herosecondary {
@@ -84,7 +85,7 @@ ul {
     padding: 6px 12px;
     min-height: 30px; 
     min-width: 120px;
-    margin-left: 16px;
+    margin-top: 8px;
   }
 
   .heroright div {
@@ -147,7 +148,7 @@ ul {
     height: 150px;
     width: 150px;
     font-size: 18px;
-    color: #E5E7EB;
+    color: darkgray;
     display: flex;
     justify-content: center;
     align-items: center;
