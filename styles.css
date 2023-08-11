@@ -125,16 +125,16 @@ ul {
   }
 
   .infoimg {
-    height: 75px;
-    width: 75px;
+    height: 125px;
+    width: 125px;
     font-family: Roboto, sans-serif;
-    border: 6px solid #3882F6;
+    border: 3px solid #3882F6;
     border-radius: 8px;
   }
 
   .infoimgtext {
-    height: 75px;
-    width: 75px;
+    height: 125px;
+    width: 125px;
     font-size: 18px;
     color: #E5E7EB;
   }
