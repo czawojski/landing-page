@@ -116,7 +116,7 @@ ul {
     color: #1F2937;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     padding: 16px;
   }
 
