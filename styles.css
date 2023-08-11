@@ -120,7 +120,7 @@ ul {
 
   .infoimgcontainer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     padding: 16px;
   }
@@ -132,9 +132,13 @@ ul {
     border: 2px #3882F6;
     border-radius: 8px;
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .infoimgtext {
+    height: 75px;
+    width: 75px;
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
