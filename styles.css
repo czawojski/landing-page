@@ -102,11 +102,10 @@ ul {
   }
 
   .info {
-    height: 800px;
+    height: 400px;
     background: white;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
   }
 
@@ -116,7 +115,6 @@ ul {
     color: #1F2937;
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
     padding: 16px;
   }
 
