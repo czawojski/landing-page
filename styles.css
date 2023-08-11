@@ -102,7 +102,7 @@ ul {
   }
 
   .info {
-    height: 600px;
+    height: 800px;
     background: white;
     display: flex;
     flex-direction: column;
@@ -115,7 +115,7 @@ ul {
     font-weight: extra-bold;
     color: #1F2937;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     padding: 16px;
   }
