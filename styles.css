@@ -129,7 +129,7 @@ ul {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
   }
 
   .infoimg {
@@ -138,6 +138,9 @@ ul {
     font-family: Roboto, sans-serif;
     border: 3px solid #3882F6;
     border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .infoimgtext {
@@ -145,6 +148,9 @@ ul {
     width: 125px;
     font-size: 18px;
     color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .quote {
