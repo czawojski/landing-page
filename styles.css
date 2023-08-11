@@ -128,11 +128,13 @@ ul {
     height: 75px;
     width: 75px;
     font-family: Roboto, sans-serif;
-    border: 2px #3882F6;
+    border: 2px solid #3882F6;
     border-radius: 8px;
   }
 
   .infoimgtext {
+    height: 75px;
+    width: 75px;
     font-size: 18px;
     color: #E5E7EB;
   }
