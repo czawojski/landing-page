@@ -90,13 +90,13 @@ ul {
   }
 
   .heroright div {
-    height: 200px;
-    width: 500px;
-    border: 6px solid #3882F6;
+    height: 250px;
+    width: 550px;
+    border: 2px solid #3882F6;
     color: #E5E7EB;
     display: flex;
-    margin-left: 30px;
-    margin-top: 30px;
+    margin-left: 120px;
+    margin-top: 50px;
   }
 
   .info {
